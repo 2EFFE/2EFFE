@@ -60,6 +60,20 @@ MEKAI is building a portfolio around:
 - launches that become long-term distribution assets
 - automation layers powered by code, workflows, and AI
 
+## Featured Public Project
+
+### [release-to-content](https://github.com/MEKAI-LAB/release-to-content)
+
+Turn one changelog into launch-ready content for:
+
+- App Store release notes
+- X posts and threads
+- Reddit drafts
+- email updates
+- website changelog blocks
+
+This is the first public utility in the MEKAI ecosystem and it is designed for founders, indie developers, and product teams that want better distribution from every release.
+
 ## Technology
 
 Swift, TypeScript, React, Vite, Tailwind, Notion, AI workflows, and automation systems
