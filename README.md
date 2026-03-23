@@ -1,17 +1,32 @@
-# MEKAI LAB
+<div align="center">
+  <h1>MEKAI LAB</h1>
+  <p><strong>Digital products designed to compound.</strong></p>
+  <p>
+    <a href="https://mekailab.com">Website</a> ·
+    <a href="https://mekailab.gumroad.com">Gumroad</a> ·
+    <a href="https://www.linkedin.com/company/mekai-lab/">LinkedIn</a>
+  </p>
+</div>
 
-MEKAI builds digital products that compound.
+## Welcome
 
-The company focuses on:
+MEKAI is a digital-first startup building products, systems, and tools that are meant to be sold online, operated with leverage, and improved through automation.
+
+This GitHub profile is the public home of the brand.
+
+## What MEKAI Does
+
+MEKAI operates across three main areas:
 
 - iOS apps
 - Notion systems and templates
-- automation-first tools and workflows
-- lean digital products for creators, founders, and operators
+- automation-first digital products and workflows
 
-## Product Areas
+The company focuses on products that can be launched lean, distributed online, and expanded into a compounding ecosystem over time.
 
-### iOS Apps
+## Product Ecosystem
+
+### iOS Portfolio
 
 MEKAI is developing a growing portfolio of iOS products and experiments, including:
 
@@ -26,7 +41,7 @@ MEKAI is developing a growing portfolio of iOS products and experiments, includi
 
 ### Notion Systems
 
-MEKAI also builds operating systems and workflow templates for digital businesses, including:
+MEKAI also builds operating systems and workflow templates for creators, founders, freelancers, and small digital businesses, including:
 
 - Startup OS
 - Content Creator OS
@@ -36,23 +51,21 @@ MEKAI also builds operating systems and workflow templates for digital businesse
 - Sponsorship Tracker
 - Proposal & Invoice Kit
 
-## Current Direction
+## How MEKAI Builds
 
-- building digital products with repeatable revenue potential
-- turning launches into long-term brand and distribution assets
-- using code, systems, and automation to reduce manual work
-- expanding the MEKAI ecosystem across website, products, and distribution channels
+MEKAI is building a portfolio around:
 
-## Links
+- digital products with repeatable revenue potential
+- systems that reduce manual work
+- launches that become long-term distribution assets
+- automation layers powered by code, workflows, and AI
 
-- Website: [mekailab.com](https://mekailab.com)
-- Gumroad: [mekailab.gumroad.com](https://mekailab.gumroad.com)
-- LinkedIn: [MEKAI LAB](https://www.linkedin.com/company/mekai-lab/)
-
-## Stack
+## Technology
 
 Swift, TypeScript, React, Vite, Tailwind, Notion, AI workflows, and automation systems
 
-## Note
+## Public Profile
 
-Most of MEKAI's current work is being built in private while products are refined and shipped. This profile is the public layer of the brand and will expand with selected launches, experiments, and open assets.
+Most of MEKAI's work is currently being developed in private while products are being refined and launched.
+
+This profile will gradually expand with selected releases, experiments, public assets, and open documentation from the MEKAI ecosystem.
