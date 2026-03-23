@@ -1,6 +1,6 @@
 # MEKAI
 
-I build digital products that compound.
+build digital products that compound.
 
 Independent builder at MEKAI LAB focused on:
 
