@@ -1,16 +1,38 @@
-## Hi there 👋
+# MEKAI
 
-<!--
-**2EFFE/2EFFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build digital products that compound.
 
-Here are some ideas to get you started:
+Independent builder at MEKAI LAB focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- iOS apps
+- Notion systems and templates
+- automation-first tools and workflows
+- lean digital products for creators, founders, and operators
+
+## What I am building
+
+- A portfolio of digital products designed for repeatable revenue
+- iOS utilities and product experiments with clear user workflows
+- systems, templates, and automation layers that reduce manual work
+- a brand ecosystem where products, content, and distribution reinforce each other
+
+## Current focus
+
+- shipping faster with smaller MVPs
+- building products that can be sold and operated online
+- turning launches into long-term content and distribution assets
+- using code and automation to increase leverage
+
+## Where to find my work
+
+- Website: [mekailab.com](https://mekailab.com)
+- Gumroad: [mekailab.gumroad.com](https://mekailab.gumroad.com)
+- LinkedIn: [MEKAI LAB](https://www.linkedin.com/company/mekai-lab/)
+
+## Stack
+
+Swift, TypeScript, React, Vite, Tailwind, Notion, AI workflows, automation systems
+
+## Note
+
+Most of my current work is being built in private while products are being refined and shipped. This profile is the public layer of MEKAI and will expand with selected experiments, tools, and open assets.
