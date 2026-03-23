@@ -1,29 +1,49 @@
-# MEKAI
+# MEKAI LAB
 
-build digital products that compound.
+MEKAI builds digital products that compound.
 
-Independent builder at MEKAI LAB focused on:
+The company focuses on:
 
 - iOS apps
 - Notion systems and templates
 - automation-first tools and workflows
 - lean digital products for creators, founders, and operators
 
-## What I am building
+## Product Areas
 
-- A portfolio of digital products designed for repeatable revenue
-- iOS utilities and product experiments with clear user workflows
-- systems, templates, and automation layers that reduce manual work
-- a brand ecosystem where products, content, and distribution reinforce each other
+### iOS Apps
 
-## Current focus
+MEKAI is developing a growing portfolio of iOS products and experiments, including:
 
-- shipping faster with smaller MVPs
-- building products that can be sold and operated online
-- turning launches into long-term content and distribution assets
-- using code and automation to increase leverage
+- Scia
+- Filo
+- Pactra
+- Capsule
+- EveningStack
+- LifeXP
+- Signalist
+- Rectoria
 
-## Where to find my work
+### Notion Systems
+
+MEKAI also builds operating systems and workflow templates for digital businesses, including:
+
+- Startup OS
+- Content Creator OS
+- Freelance Business OS
+- Agency & Consultant OS
+- Investor CRM Lite
+- Sponsorship Tracker
+- Proposal & Invoice Kit
+
+## Current Direction
+
+- building digital products with repeatable revenue potential
+- turning launches into long-term brand and distribution assets
+- using code, systems, and automation to reduce manual work
+- expanding the MEKAI ecosystem across website, products, and distribution channels
+
+## Links
 
 - Website: [mekailab.com](https://mekailab.com)
 - Gumroad: [mekailab.gumroad.com](https://mekailab.gumroad.com)
@@ -31,8 +51,8 @@ Independent builder at MEKAI LAB focused on:
 
 ## Stack
 
-Swift, TypeScript, React, Vite, Tailwind, Notion, AI workflows, automation systems
+Swift, TypeScript, React, Vite, Tailwind, Notion, AI workflows, and automation systems
 
 ## Note
 
-Most of my current work is being built in private while products are being refined and shipped. This profile is the public layer of MEKAI and will expand with selected experiments, tools, and open assets.
+Most of MEKAI's current work is being built in private while products are refined and shipped. This profile is the public layer of the brand and will expand with selected launches, experiments, and open assets.
