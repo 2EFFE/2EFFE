@@ -74,6 +74,14 @@ Turn one changelog into launch-ready content for:
 
 This is the first public utility in the MEKAI ecosystem and it is designed for founders, indie developers, and product teams that want better distribution from every release.
 
+### [mekai-longitudinal-vehicle-starter-lite](https://github.com/MEKAI-LAB/mekai-longitudinal-vehicle-starter-lite)
+
+Public discovery repo for MEKAI engineering products in MATLAB / Simulink.
+
+- longitudinal vehicle dynamics starter model
+- automotive speed-control prototyping baseline
+- discovery layer for the full commercial MEKAI engineering release
+
 ## Technology
 
 Swift, TypeScript, React, Vite, Tailwind, Notion, AI workflows, and automation systems
